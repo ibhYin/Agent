@@ -1,4 +1,4 @@
-# 智能体 MVP（Agentic Loop 教学项目）
+# 智能体 MVP
 
 [![CI](https://github.com/ibhYin/Agent_ybh/actions/workflows/ci.yml/badge.svg)](https://github.com/ibhYin/Agent_ybh/actions/workflows/ci.yml)
 
